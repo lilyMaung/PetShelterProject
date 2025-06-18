@@ -1,0 +1,3 @@
+C:/Users/Emily/Lily's Projects/cmake-build-debug/CMakeFiles/Lily_s_Projects.dir
+C:/Users/Emily/Lily's Projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Emily/Lily's Projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
